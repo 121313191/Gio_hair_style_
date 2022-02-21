@@ -1,0 +1,10 @@
+.bg-myRed  {
+  background-color: #114f4f;
+  height: 50px;
+}
+.come{
+  color: wheat;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

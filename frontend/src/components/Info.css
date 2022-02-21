@@ -1,0 +1,51 @@
+.text {
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 9em;
+}
+
+body {
+    background: linear-gradient(to bottom right, #2b2b2b, #003030); /* Standard syntax */
+}
+.hello {
+    color: wheat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 20em;
+}
+.gg {
+    color: #00a19b;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.indicazioni {
+    color: wheat;
+    height: 20em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.contact {
+    color: wheat;
+    height: 5em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.numero{
+    color: #00a19b;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.bottone {
+    font-size: 30px;
+    color: white;
+}
+.email{
+    color: #00a19b;
+}
